@@ -16,3 +16,5 @@ Contents:
 4) Speaker notes: These are my notes that I used for reference, they are unformatted. I am happy if they can help too.
 
 As mentioned above, I am open to feedback if anyone uses this, please suggest changes and improvements via email.
+
+Finally, I would like to thank Prof. Omkant and all the researchers in this field.
