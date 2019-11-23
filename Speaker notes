@@ -1,0 +1,16 @@
+Slide 3: Entropy is measure the unpredictability of a nonuniform distribution in different ways
+
+Slide 4 : Randomness Extractor- also known as extractor.
+Highly random means- it is independent from the source and uniformly distributed.
+Why can’t we just use S? 1) S is public - also makes it strong extractor.
+
+Slide 5:The leftover hash lemma simply states that a universal hash family gives an extractor. The seed is used to choose a hash function and the output is simply the hash of the input.
+
+Slide 7: Pros: It is algebraic and fast
+Cons: seed length and Loss.
+
+Slide 8: Attacker having prior knowledge of the distribution, then bayesian probablitity.Average entropy.
+We see a connection between imperfect randomness and leakage resilience.
+
+Slide 9: L2 is the euclidean distance
+
